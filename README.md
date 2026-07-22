@@ -57,18 +57,6 @@ The project is currently in its planning phase, and the implementation details w
 
 ---
 
-## Development Roadmap
-
-<!-- Describe the different phases and milestones -->
-
----
-
-## Task Distribution
-
-<!-- Describe each team member's responsibilities -->
-
----
-
 ## Results
 
 <!-- Present model performance and evaluation -->
